@@ -61,3 +61,25 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
+
+## Postman View When GET Data
+
+![GET_POSTMAN](https://user-images.githubusercontent.com/110377506/185396947-1b850858-28e6-4f97-9ae3-08958185c662.png)
+
+
+## Postman View When POST Data
+
+![POST_POSTMAN](https://user-images.githubusercontent.com/110377506/185397218-afac2b50-d68e-49d6-854c-1ebaf7918911.png)
+
+
+## Postman View When PUT Data
+
+![PUT_POSTMAN](https://user-images.githubusercontent.com/110377506/185397308-ea6903a6-2e74-45a4-9d24-82b035800d69.png)
+
+
+## Postman View When DELETE Data
+
+
+![DELETED_POSTMAN](https://user-images.githubusercontent.com/110377506/185397508-37d1b383-5f7a-44b0-b5aa-1cebe7e7293d.png)
+
+
